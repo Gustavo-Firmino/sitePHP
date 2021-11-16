@@ -1,6 +1,6 @@
 <?php
 		//conectar BD
-		$servidorCONN="127.0.0.1"; //proprio equipamento (testes); porém caso utilize um servidor (ambiente profissional), basta mudar o IP  
+		$servidorCONN="127.0.0.1"; //proprio equipamento (testes); porém caso utilize um servidor, basta mudar o IP  
 		$usuarioCONN="gus";
 		$senhaCONN="12345";
 		$bdCONN="gus"; //muda o servidor de BD
